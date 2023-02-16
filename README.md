@@ -1,5 +1,5 @@
 
-# Data-Visualization-Tableau
+# Retail Data Analysis | Data-Visualization-Tableau
 
 In this project, I am going to do a detailed analysis and visualization for the Retail Dataset.
 
